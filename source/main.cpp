@@ -14,5 +14,9 @@ int main(int argc, const char *argv[]) {
   Tokenizer t(argv[1]);
   auto tokens = t.getTokens();
 
+  // TODO instantiate FrequencyCounter
+  // compute frequency
+
+  // TODO print summary of the term frequency
   return 0;
 }
