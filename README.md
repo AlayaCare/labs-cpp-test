@@ -31,3 +31,8 @@ It's totally optional but if you use VS code. This may be usefull.
 
 A launch.json file is provided.
 In VS code the extension C/C++, C/C++ Extension Pack, C/C++ Themes, CMake, CMakeTools, CodeLLDB
+
+Once the projet is opened
+- CMake: Configure
+- CMake: Build Target
+- Debug: Start Debugging
