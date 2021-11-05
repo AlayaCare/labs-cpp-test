@@ -1,0 +1,28 @@
+
+
+Machine Learning to Harness your Data
+
+Capturing clinical and event data is tremendously useful to monitor clients. With Machine Learning, we can augment that task and the outcomes by analyzing data and predicting events.
+
+    Tuned home health care algorithms
+    Event based modelling 
+    Capture data within AlayaCare and from 3rd party systems
+
+
+Reduced Cost Through Optimization
+
+Streamlining travel time, maximizing resources and minimizing waste are only a few of the benefits tackled by incorporating optimization in the day-to-day back office coordination and scheduling. Learn More
+
+    Incorporate mapping for better staffing, client coordination and hiring
+    Optimized routing to improve travel costs
+    Tune agency priorities such as punctuality, continuity, employee satisfaction and margin
+
+
+Rich Insightful Long Term Planning
+
+Tackling data and patterns in bulk provides organizations with the ability to plan staffing, services and even clinics to match outcomes, needs and trends.
+
+    Match geographic, care and event data for robust models
+    Long term and short term planning and reporting
+    Analytics to track and project regional and zone trends
+
