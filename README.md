@@ -1,5 +1,8 @@
 # labs-cpp-test
 
+This repository contains a small C++ test for developper that want to join the labs team.
+
+
 ## Instruction
 
 The program term_frequency received in argument a file path.
